@@ -1,0 +1,98 @@
+commit 673ad375643d925d2cefc3ec3237d542951fa755
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 16:42:39 2023 -0500
+
+    Agregando 2 párrafos
+
+commit b7bdf0576b2d027d97b8d6fdbd981b49775d79fb
+Merge: 9720267 11527ce
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 16:38:51 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 9720267be0c91de65c3ddec94b13f60ae1cfd99d
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 16:29:08 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 11527ce12775e915ab81b1b62b1a16cbf12976f4
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 16:29:08 2023 -0500
+
+    Agregando las estaciones del año
+
+commit ca2ec015cf0483fde2ad728a7595786ff26b4840
+Merge: fea1bad 67dfe51
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 16:06:15 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 67dfe51acf58d5d534af59ce22402051ce3db334
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 16:01:05 2023 -0500
+
+    Agregando index.js al index.html
+
+commit fea1bad093fdcee2ef4d967af28ef6293a8a0b01
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 15:59:28 2023 -0500
+
+    Agregando style.css al index.html
+
+commit cf9e88ed541fb2d5ea0e2ded4ce2527afb8bea3a
+Merge: ef59b8c 7232eae
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 15:54:26 2023 -0500
+
+    Merge branch 'js'
+
+commit 7232eae76ac18e672293225641f33f890ede9101
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 15:51:58 2023 -0500
+
+    Creando index.js
+
+commit ef59b8c893b3839d55d0c9b79c06635edd6027a3
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 14:04:37 2023 -0500
+
+    Creando style.css
+
+commit 9a4e169f715c6a407749eaa7a22c476e72ec6da8
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 14:01:43 2023 -0500
+
+    Creando index.html
+
+commit 1a6e7b51a8908e74ca83877746c4878c57e6dc91
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 13:18:02 2023 -0500
+
+    Ignorando archivos.exe
+
+commit 007d4474eae08ff644c37fa0bbd831f65431349b
+Author: Depaz Ramirez Diego <123752002+ARandomPerson01@users.noreply.github.com>
+Date:   Sat Jul 15 13:00:00 2023 -0500
+
+    Creando Licencia del Repositorio
+
+commit 4f342d82c416468eadf672155697e1fa7704265a
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 12:49:44 2023 -0500
+
+    Agregando mas contenido al README
+
+commit d9cf7fe68e0ac3d45ddc02131b4e3e504a77e22d
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 12:43:57 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit 6ef19a270625d74aa3b62b631bd39e86f939569f
+Author: Diego Depaz <depazramirezdiego02@gmail.com>
+Date:   Sat Jul 15 12:40:46 2023 -0500
+
+    Primer Commit😊
